@@ -7,7 +7,7 @@ require('dotenv').config();
 const client = new Client({
     checkUpdate: false,
 });
-const jsonConfigFilePath = '/Users/benjaminfaershtein/Auto-Responder-X/JSON_CONFIG.JSON';
+const jsonConfigFilePath = './JSON_CONFIG.JSON';
 let replyEnabled = false;
 let jsonConfig = { SAVED_USERS: {} }; // store JSON config in memory
 
