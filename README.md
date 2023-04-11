@@ -9,8 +9,6 @@ Auto-Responder-X is a Discord selfbot that allows you to set up auto-reply messa
 - Display bot uptime with `!uptime` command.
 - Add new users with custom auto-reply messages using `!adduser` command.
 - Modify auto-reply messages for existing users with `!modifyuser` command.
-- Remove users from auto-reply list with `!removeuser` command.
-- View list of all users with auto-reply messages with `!listusers` command.
 - Custom ASCII art display on bot startup.
 
 ## Installation :computer:
