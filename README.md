@@ -14,10 +14,9 @@ Auto-Responder-X is a Discord selfbot that allows you to set up auto-reply messa
 ## Installation :computer:
 
 1. Clone the repository or download the ZIP file.
-2. Install the required dependencies using `npm install` command.
-3. Set up your Discord bot token in a `.env` file. The `.env` file should be placed in the root directory of the bot project, and it should contain the following line with your Discord bot token: 
+2. Set up your Discord bot token in a `.env` file. The `.env` file should be placed in the root directory of the bot project, and it should contain the following line with your Discord bot token: 
  `TOKEN=<your-discord-bot-token>`  
-4. Run the bot using `node index.js` command.
+3. Run the bot using `node index.js` command.
 
 
 ## Commands :keyboard:
